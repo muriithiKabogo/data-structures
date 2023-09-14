@@ -40,3 +40,5 @@ end_time = Time.now
 puts "Time elapsed #{(end_time - beginning_time)*1000} milliseconds"
 
 # Reading and writing hash vakues is 0(1) constant
+
+# choose 
